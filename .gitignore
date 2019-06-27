@@ -1,0 +1,10 @@
+# Environments
+env
+
+#Python
+settings.py
+
+migrations/
+
+# Idea
+.idea/
